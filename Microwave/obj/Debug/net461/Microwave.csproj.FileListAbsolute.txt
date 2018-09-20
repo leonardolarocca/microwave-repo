@@ -1,0 +1,1337 @@
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.exe.config
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.deps.json
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.exe
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.pdb
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\netfx.force.conflicts.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\netstandard.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.AppContext.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Collections.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Specialized.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Console.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Data.Common.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.Pipes.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Linq.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Expressions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Parallel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Queryable.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Http.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.NameResolution.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Ping.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Requests.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Security.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.Sockets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ObjectModel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Reader.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Writer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Handles.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Claims.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.Principal.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Security.SecureString.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Thread.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Timer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.ValueTuple.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XDocument.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.Views.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microwave.Views.pdb
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Registry.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Buffers.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Collections.Immutable.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Annotations.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.Pipelines.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Memory.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Numerics.Vectors.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Reflection.Metadata.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.AccessControl.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Permissions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Principal.Windows.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Text.Encodings.Web.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\netstandard.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.AppContext.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Collections.Concurrent.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Collections.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Collections.NonGeneric.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Collections.Specialized.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ComponentModel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Console.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Data.Common.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Contracts.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Debug.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Process.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tools.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tracing.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Drawing.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Dynamic.Runtime.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Globalization.Calendars.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Globalization.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Globalization.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.Compression.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.IsolatedStorage.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.Pipes.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Linq.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Linq.Expressions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Linq.Parallel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Linq.Queryable.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Http.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.NameResolution.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.NetworkInformation.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Ping.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Requests.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Security.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.Sockets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.Client.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ObjectModel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Reflection.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Reflection.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Reflection.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Resources.Reader.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Resources.ResourceManager.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Resources.Writer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Handles.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Numerics.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Claims.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.Principal.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Security.SecureString.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Text.RegularExpressions.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Overlapped.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Thread.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.ThreadPool.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Threading.Timer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.ValueTuple.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.ReaderWriter.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.XDocument.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.XmlDocument.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.XmlSerializer.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.dll
+E:\Área de Trabalho\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.csprojResolveAssemblyReference.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.exe.config
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfoInputs.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfo.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.input.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.output.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.RazorCoreGenerate.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\About.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Index.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Microwave\Index.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cache
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cs
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.Views.pdb
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.exe
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.pdb
+E:\Área de Trabalho\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CopyComplete
+C:\Benner\Microwave\bin\Debug\net461\Microwave.exe.config
+C:\Benner\Microwave\bin\Debug\net461\Microwave.deps.json
+C:\Benner\Microwave\bin\Debug\net461\Microwave.exe
+C:\Benner\Microwave\bin\Debug\net461\Microwave.pdb
+C:\Benner\Microwave\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\netfx.force.conflicts.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\netstandard.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.AppContext.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Specialized.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Console.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Data.Common.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Pipes.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Expressions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Parallel.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Queryable.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Http.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NameResolution.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Ping.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Requests.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Security.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Sockets.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ObjectModel.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Reader.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Writer.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Handles.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Claims.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Principal.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Security.SecureString.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Thread.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Timer.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.ValueTuple.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XDocument.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.dll
+C:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+C:\Benner\Microwave\bin\Debug\net461\Microwave.Views.dll
+C:\Benner\Microwave\bin\Debug\net461\Microwave.Views.pdb
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Registry.dll
+C:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Buffers.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Annotations.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.Pipelines.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Memory.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.AccessControl.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Permissions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.Windows.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\netstandard.dll
+C:\Benner\Microwave\bin\Debug\net461\System.AppContext.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Collections.Concurrent.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Collections.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Collections.NonGeneric.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Collections.Specialized.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Console.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Data.Common.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Contracts.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Debug.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Process.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tools.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tracing.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Drawing.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Dynamic.Runtime.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Globalization.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Globalization.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.IsolatedStorage.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.Pipes.dll
+C:\Benner\Microwave\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Linq.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Linq.Expressions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Linq.Parallel.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Linq.Queryable.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Http.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.NameResolution.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.NetworkInformation.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Ping.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Requests.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Security.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.Sockets.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.Client.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ObjectModel.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Reflection.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Reflection.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Reflection.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Resources.Reader.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Resources.ResourceManager.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Resources.Writer.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Handles.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Numerics.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Claims.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Security.SecureString.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Text.RegularExpressions.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Overlapped.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Thread.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.ThreadPool.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Threading.Timer.dll
+C:\Benner\Microwave\bin\Debug\net461\System.ValueTuple.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.XDocument.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlSerializer.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.dll
+C:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Benner\Microwave\obj\Debug\net461\Microwave.csprojResolveAssemblyReference.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.exe.config
+C:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CoreCompileInputs.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cs
+C:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfoInputs.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfo.cs
+C:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.input.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.output.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.RazorCoreGenerate.cache
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\About.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Index.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Microwave\Index.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cache
+C:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cs
+C:\Benner\Microwave\obj\Debug\net461\Microwave.Views.pdb
+C:\Benner\Microwave\obj\Debug\net461\Microwave.exe
+C:\Benner\Microwave\obj\Debug\net461\Microwave.pdb
+C:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CopyComplete
+C:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\NovoPrato.g.cshtml.cs
+D:\Benner\Microwave\bin\Debug\net461\Microwave.exe.config
+D:\Benner\Microwave\bin\Debug\net461\Microwave.deps.json
+D:\Benner\Microwave\bin\Debug\net461\Microwave.exe
+D:\Benner\Microwave\bin\Debug\net461\Microwave.pdb
+D:\Benner\Microwave\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\netfx.force.conflicts.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\netstandard.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.AppContext.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Specialized.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Console.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Data.Common.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Pipes.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Expressions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Parallel.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Queryable.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Http.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NameResolution.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Ping.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Requests.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Security.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Sockets.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ObjectModel.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Reader.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Writer.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Handles.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Claims.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Principal.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Security.SecureString.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Thread.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Timer.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.ValueTuple.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XDocument.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.dll
+D:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+D:\Benner\Microwave\bin\Debug\net461\Microwave.Views.dll
+D:\Benner\Microwave\bin\Debug\net461\Microwave.Views.pdb
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Registry.dll
+D:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.dll
+D:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Buffers.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Collections.Immutable.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Annotations.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.Pipelines.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Memory.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.AccessControl.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Permissions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.Windows.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\netstandard.dll
+D:\Benner\Microwave\bin\Debug\net461\System.AppContext.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Collections.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Collections.Specialized.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Console.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Data.Common.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Globalization.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.Pipes.dll
+D:\Benner\Microwave\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Linq.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Linq.Expressions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Linq.Parallel.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Linq.Queryable.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Http.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.NameResolution.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Ping.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Requests.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Security.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.Sockets.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ObjectModel.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Reflection.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Resources.Reader.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Resources.Writer.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Handles.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Claims.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Security.SecureString.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Thread.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Threading.Timer.dll
+D:\Benner\Microwave\bin\Debug\net461\System.ValueTuple.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.XDocument.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.dll
+D:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\Benner\Microwave\obj\Debug\net461\Microwave.csprojAssemblyReference.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.exe.config
+D:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CoreCompileInputs.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cs
+D:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfoInputs.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfo.cs
+D:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.input.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.output.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.RazorCoreGenerate.cache
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Index.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\Microwave\Index.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\NovoPrato.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cache
+D:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cs
+D:\Benner\Microwave\obj\Debug\net461\Microwave.Views.pdb
+D:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CopyComplete
+D:\Benner\Microwave\obj\Debug\net461\Microwave.exe
+D:\Benner\Microwave\obj\Debug\net461\Microwave.pdb
+F:\Benner\Microwave\bin\Debug\net461\Microwave.exe.config
+F:\Benner\Microwave\bin\Debug\net461\Microwave.deps.json
+F:\Benner\Microwave\bin\Debug\net461\Microwave.exe
+F:\Benner\Microwave\bin\Debug\net461\Microwave.pdb
+F:\Benner\Microwave\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\netfx.force.conflicts.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\netstandard.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.AppContext.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Collections.Specialized.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Console.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Data.Common.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.Pipes.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Expressions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Parallel.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Linq.Queryable.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Http.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NameResolution.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Ping.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Requests.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Security.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.Sockets.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Net.WebSockets.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ObjectModel.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Reader.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Resources.Writer.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Handles.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Claims.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.Principal.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Security.SecureString.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Thread.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Threading.Timer.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.ValueTuple.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XDocument.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.dll
+F:\Benner\Microwave\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+F:\Benner\Microwave\bin\Debug\net461\Microwave.Views.dll
+F:\Benner\Microwave\bin\Debug\net461\Microwave.Views.pdb
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Registry.dll
+F:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.dll
+F:\Benner\Microwave\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Buffers.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Collections.Immutable.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Annotations.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.Pipelines.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Memory.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Numerics.Vectors.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Reflection.Metadata.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.AccessControl.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Permissions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.Windows.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Text.Encodings.Web.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\netstandard.dll
+F:\Benner\Microwave\bin\Debug\net461\System.AppContext.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Collections.Concurrent.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Collections.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Collections.NonGeneric.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Collections.Specialized.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Console.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Data.Common.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Contracts.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Debug.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Process.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tools.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Diagnostics.Tracing.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Drawing.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Dynamic.Runtime.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Globalization.Calendars.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Globalization.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Globalization.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.IsolatedStorage.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.Pipes.dll
+F:\Benner\Microwave\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Linq.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Linq.Expressions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Linq.Parallel.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Linq.Queryable.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Http.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.NameResolution.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.NetworkInformation.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Ping.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Requests.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Security.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.Sockets.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.Client.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Net.WebSockets.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ObjectModel.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Reflection.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Reflection.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Reflection.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Resources.Reader.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Resources.ResourceManager.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Resources.Writer.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Handles.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Numerics.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Claims.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.Principal.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Security.SecureString.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Text.RegularExpressions.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Overlapped.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Thread.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.ThreadPool.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Threading.Timer.dll
+F:\Benner\Microwave\bin\Debug\net461\System.ValueTuple.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.ReaderWriter.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.XDocument.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlDocument.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.XmlSerializer.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.dll
+F:\Benner\Microwave\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+F:\Benner\Microwave\obj\Debug\net461\Microwave.csprojResolveAssemblyReference.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.exe.config
+F:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CoreCompileInputs.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.RazorAssemblyInfo.cs
+F:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfoInputs.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.AssemblyInfo.cs
+F:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.input.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.TagHelpers.output.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.RazorCoreGenerate.cache
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\About.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Index.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Microwave\Index.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\NovoPrato.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cache
+F:\Benner\Microwave\obj\Debug\net461\Microwave.RazorTargetAssemblyInfo.cs
+F:\Benner\Microwave\obj\Debug\net461\Microwave.Views.pdb
+F:\Benner\Microwave\obj\Debug\net461\Microwave.exe
+F:\Benner\Microwave\obj\Debug\net461\Microwave.pdb
+F:\Benner\Microwave\obj\Debug\net461\Microwave.csproj.CopyComplete

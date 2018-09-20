@@ -1,0 +1,119 @@
+﻿@model Microwave.Models.MicrowaveModel
+@{ 
+    ViewData["Title"] = "Benner";
+}
+<div class="panel panel-info">
+    <div class="panel-heading text-center">
+        <h4><strong><span class="text-danger">Benner</span></strong>Wave</h4>
+    </div>
+    <div class="panel-body">
+        <div class="form-group">
+            <div class="col-md-7">
+                <div class="panel panel-default" style="margin-bottom: 0;">
+                    <div class="panel-body d-flex align-items-center justify-content-around" style="min-height: 500px;" id="feedback">
+                        <div class="form-group text-center text-info">
+                            <span class="glyphicon glyphicon-fire" style="font-size: 8em"></span>
+                            <h3>Aguardando...</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <form asp-action="Index" asp-controller="Microwave" id="FormMicrowave" method="post">
+                    <div class="row">
+                        <div class="col-md-12">                           
+                            <h1 class="text-right"><span id="tempo">00:00</span></h1>
+                            <hr />
+                        </div>                        
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="minutos"></label>   <span asp-validation-for="minutos"></span>
+                            <div class="input-group">
+                                <div class="input-group-btn">
+                                    <button type="button" id="btnSubMin" class="btn btn-lg btn-default" onclick="SubtraiMinuto(document.getElementById('minutos').value)"><i class="glyphicon glyphicon-minus"></i></button>
+                                </div>
+                                <input type="number" min="0" max="59" step="1" class="form-control input-lg text-center" asp-for="minutos" required />
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-lg btn-default" onclick="SomaMinuto(document.getElementById('minutos').value)"><i class="glyphicon glyphicon-plus"></i></button>
+                                </div>
+                            </div>                            
+                        </div>
+                        <div class="col-md-6">
+                            <label for="btnStart">&nbsp;</label>
+                            <button class="btn btn-lg btn-block btn-primary" id="btnStart" value="start" onclick="IniciarCronometro('start')"><i class="glyphicon glyphicon-play"></i>&nbsp;Iniciar</button>
+                        </div>
+                    </div>                                            
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="segundos"></label> <span asp-validation-for="segundos"></span>
+                            <div class="input-group">
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-lg btn-default" onclick="SubtraiSegundo(document.getElementById('segundos').value)"><i class="glyphicon glyphicon-minus"></i></button>
+                                </div>
+                                <input type="number" min="0" max="59" step="1" class="form-control input-lg text-center" asp-for="segundos" required />
+                                <div class="input-group-btn">
+                                    <button type="button" class="btn btn-lg btn-default" onclick="SomaSegundo(document.getElementById('segundos').value)"><i class="glyphicon glyphicon-plus"></i></button>
+                                </div>
+                            </div>                            
+                        </div>    
+                        <div class="col-md-6">
+                            <label for="btnPause">&nbsp;</label>
+                            <button type="button" id="btnPause" disabled value="pause" onclick="PausarCronometro()" class="btn btn-block btn-lg btn-warning"><i class="glyphicon glyphicon-pause"></i>&nbsp;Pausar</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label asp-for="potencia"></label>
+                            <div class="input-group">
+                                <span class="input-group-btn">
+                                    <button type="button" class="btn btn-lg btn-danger" onclick="Subtrai(document.getElementById('potencia').value)"><i class="glyphicon glyphicon-minus"></i></button>
+                                </span>
+                                <input type="number" min="0" max="10" step="1" class="form-control input-lg text-center" asp-for="potencia" />
+                                <span class="input-group-btn">
+                                    <button type="button" class="btn btn-lg btn-success" onclick="Soma(document.getElementById('potencia').value)"><i class="glyphicon glyphicon-plus"></i></button>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <label for="btnCancelar">&nbsp;</label>
+                            <button type="button" id="btnStop" value="stop" disabled onclick="ResetarCronometro()" class="btn btn-lg btn-block btn-danger"><i class="glyphicon glyphicon-remove"></i>&nbsp;Cancelar</button>
+                        </div>
+                    </div>
+                </form>                
+                    <div class="form-group">
+                        <label asp-for="NovoPrato"></label>
+                        <div class="input-group">
+                            @Html.DropDownListFor(Model => Model.prato, new SelectList(Model.NovoPrato.PratosList, "value", "nome", Model.prato), "-- Selecione um prato --", new { @class = "form-control" })
+                            <div class="input-group-addon">
+                                <a href="#" data-toggle="modal" data-target="#ModalNovoPrato" title="Adicionar novo prato!"><i class="glyphicon glyphicon-plus"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                
+                <div class="row">
+                    <div class="col-md-12">                        
+                        <script>
+                            document.getElementById('prato').addEventListener('change', (e) => {
+                                let result = e.target.value;
+                                result = result.split(";");                                
+                                document.getElementById('minutos').value = result[1];
+                                document.getElementById('segundos').value = result[2];
+                                document.getElementById('potencia').value = result[3];
+                                document.getElementById('instrucao').innerHTML = result[4];
+                            })                            
+                        </script>
+                        <p id="instrucao"></p>
+                    </div>
+                </div>                
+            </div>            
+        </div>
+    </div>
+   
+</div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="ModalNovoPrato">
+    <div class="modal-dialog modal-lg" role="document">
+        @Html.Partial("NovoPrato", Model.NovoPrato)
+    </div>
+</div>

@@ -1,0 +1,81 @@
+﻿@model Microwave.Models.PratosModel
+<div class="modal-content">
+    <div class="modal-header text-info bg-info text-center">
+        <button type="button" class="close" data-dismiss="modal" aria-label="close"><span aria-hidden="true"></span>&times;</button>
+        <strong>Novo Prato</strong>
+    </div>
+    <div class="modal-body">
+        <form onsubmit="AdicionarPrato()" id="NovoPratoForm">
+            <div class="row">
+                <div class="col-md-6">
+                    <label asp-for="nome"></label> <span asp-validation-for="nome"></span>
+                    <input type="text" class="form-control" asp-for="nome" id="nomePrato" required />
+                </div>
+                <div class="col-md-3">
+                    <label asp-for="minutos"></label> <span asp-validation-for="minutos"></span>
+                    <input type="number" min="0" max="59" step="1" required asp-for="minutos" id="novoMinuto" class="form-control" />
+                </div>
+                <div class="col-md-3">
+                    <label asp-for="segundos"></label> <span asp-validation-for="segundos"></span>
+                    <input type="number" min="0" max="59" step="1" required asp-for="segundos" id="novoSegundo" class="form-control" />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <label asp-for="potencia"></label>
+                    <div class="input-group">
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-danger" onclick="SubtraiModal(document.getElementById('potenciaPrato').value)"><i class="glyphicon glyphicon-minus"></i></button>
+                        </span>
+                        <input type="number" min="0" max="10" step="1" class="form-control text-center" id="potenciaPrato" asp-for="potencia" required />
+                        <span class="input-group-btn">
+                            <button type="button" class="btn btn-success" onclick="SomaModal(document.getElementById('potenciaPrato').value)"><i class="glyphicon glyphicon-plus"></i></button>
+                        </span>
+                    </div>
+                    <script>
+                        function SubtraiModal(valor) {                            
+                            if (valor <= 1) {
+                                return document.getElementById('potenciaPrato').value = 1;
+                            }
+                            document.getElementById('potenciaPrato').value = --valor;
+                        }
+                        function SomaModal(valor) {
+                            if (valor >= 10) {
+                                return document.getElementById('potenciaPrato').value = 10;
+                            }
+                            document.getElementById('potenciaPrato').value = ++valor;
+                        }
+                    </script>
+                </div>
+                <div class="col-md-9">
+                    <label asp-for="instrucao"></label> <span asp-validation-for="instrucao"></span>
+                    <textarea id="novaInstrucao" class="form-control" asp-for="instrucao"></textarea>
+                </div>
+            </div>                       
+            <button id="btnReset" type="reset" class="hidden"></button>
+        </form>
+    </div>
+    <div class="modal-footer text-right">        
+        <button class="btn btn-success" type="button" onclick="AdicionarPrato()" ><i class="glyphicon glyphicon-ok"></i>&nbsp;Salvar</button>
+    </div>
+</div>
+
+<script>
+    function AdicionarPrato() {
+        let select = document.getElementById('prato');
+        let nome = document.getElementById('nomePrato').value;
+        let minuto = document.getElementById('novoMinuto').value;
+        let segundo = document.getElementById('novoSegundo').value;
+        let potencia = document.getElementById('potenciaPrato').value;
+        let instrucao = $("#novaInstrucao").val();
+        $("#prato").append(`<option value="${nome};${minuto};${segundo};${potencia};${instrucao}">${nome}</option>`)        
+        nome.value = "";
+        minuto.value = "";
+        segundo.value = "";
+        potencia.value = "";
+        instrucao.value = "";
+        $(".close").click();
+        $("#btnReset").click();
+    }
+</script>
+
